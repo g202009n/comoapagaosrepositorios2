@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(95, 95, 95);
+}
+main{
+    width: 80%;
+    height: 600x;
+}
+img{
+    width: 43%;
+    height: 300px;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+h1{
+    font-size: 87rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+}
+header{
+    font-size: 300%;
+    text-align: center;
+}
+iframe{
+    width: 43%;
+    height: 300px;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+footer{
+    height: 300px;
+    margin-left: 27%;
+    margin-right: 27%;
+}
